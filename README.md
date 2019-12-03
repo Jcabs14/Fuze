@@ -54,13 +54,13 @@ The goal is to join or create the best team based on roles and skills.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![FUZE][product-screenshot]](public/image/sign-in.png)
+![FUZE](public/image/sign-in.png)
 Fuze is a web-application for a user to find a team for Overwatch on what criteria a user is looking for.
 A player can use 
 
 ### Built With
 * [Bootstrap](https://getbootstrap.com)
-* [Javascript]https://www.javascript.com/)
+* [Javascript](https://www.javascript.com/)
 * [Passport](http://www.passportjs.org/)
 * [Handlebars](https://handlebarsjs.com/)
 * [Express](https://expressjs.com/)
