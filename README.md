@@ -87,8 +87,11 @@ npm install
 ## Contributers
 
 Adrian Situ - Javascript & Handlebars
+
 Jared Cabanilla - Overwatch API
+
 Rachel Gundy - User Interface
+
 Tim Holeski - Passport authentication
 
 
