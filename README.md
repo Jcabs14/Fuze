@@ -34,6 +34,7 @@ A player can use
 ### Built With
 * [Bootstrap](https://getbootstrap.com)
 * [Javascript](https://www.javascript.com/)
+* [jQuery](https://jquery.com/)
 * [Passport](http://www.passportjs.org/)
 * [Handlebars](https://handlebarsjs.com/)
 * [Express](https://expressjs.com/)
@@ -43,18 +44,13 @@ A player can use
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+Have Visual Studio Code installed or similar application
 
 ### Installation
+
+In your favorite terminal do the following:
 
 1. Clone the repo
 ```sh
@@ -64,6 +60,7 @@ git clone https://github.com/Jcabs14/Fuze.git
 ```sh
 npm install
 ```
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
