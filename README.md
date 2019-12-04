@@ -29,7 +29,9 @@
 
 ![FUZE](public/image/sign-in.png)
 Fuze is a web-application for a user to find a team for Overwatch on what criteria a user is looking for.
+
 Once a user is sign up and logged in they can create a team or join a team. 
+
 The creation of this project came about of our hobby of playing video games.
 
 ### Built With
