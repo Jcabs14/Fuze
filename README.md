@@ -98,7 +98,9 @@ Tim Holeski - Passport authentication
 <!-- CONTACT -->
 ## Contact
 
-Jared Cabanilla - [@email] - jcabanilla@gmail.com
+Jared Cabanilla
+
+jcabanilla@gmail.com
 
 Project Link: [https://github.com/Jcabs14/Fuze](https://github.com/Jcabs14/Fuze)
 
