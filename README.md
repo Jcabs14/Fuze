@@ -60,6 +60,10 @@ git clone https://github.com/Jcabs14/Fuze.git
 ```sh
 npm install
 ```
+3. Start locally
+```sh
+npm start (When you are in the applications folder)
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
