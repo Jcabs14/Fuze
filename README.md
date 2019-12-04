@@ -1,7 +1,3 @@
-# Team Fuze Overwatch Teambuilder
-
-[Link to deployed project](https://fuzeteam.herokuapp.com/signin)
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -34,6 +30,7 @@ Once a user is sign up and logged in they can create a team or join a team.
 
 The creation of this project came about of our hobby of playing video games.
 
+[Link to deployed project](https://fuzeteam.herokuapp.com/signin)
 ### Built With
 * [Bootstrap](https://getbootstrap.com)
 * [Javascript](https://www.javascript.com/)
